@@ -6,7 +6,7 @@ title: FAQ
 
 ### What is Meshlink?
 
-Read the [Introduction](/intro) page. duh.
+Read the [Introduction](/docs/intro) page. duh.
 
 ### What's the difference between Meshlink and [insert other mesh networking app here] ?
 
