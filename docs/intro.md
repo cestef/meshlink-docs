@@ -5,7 +5,7 @@ description: "What is Meshlink?"
 
 # Introduction
 
-<h2>Ya wanna know what this is all about? Well, here's the skinny.</h2>
+<h2>Ya wanna know what this is all about? Well, here's a quick intro.</h2>
 
 Meshlink was created in the context of my Maturity work, which was around the theme of "Internet of Things". With the recent events concerning censorship and privacy, especially in Hong Kong with the [2019-2020 protests](https://en.wikipedia.org/wiki/2019-2020_Hong_Kong_protests), I wanted to create something that could be used to circumvent censorship and provide a way for people to communicate with each other without the need for a centralized server.
 This project is heavily inspired by [Bridgefy](https://bridgefy.me/), which is a mesh messaging app.
